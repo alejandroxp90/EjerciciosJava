@@ -2,7 +2,7 @@ package PrimerosEjercicios;
 
 import java.util.Scanner;
 
-/**@author Alejandroxp90*/
+/**@author Alejandroxp90 */
 public class cicloFor12 {
     public static void main(String[] ar) {
         Scanner teclado=new Scanner(System.in);
