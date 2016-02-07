@@ -23,7 +23,6 @@ public class doWhile01 {
                System.out.println(promedio);  
             }else{
                 System.out.println("No se han ingresado numeros...");
-            }
-               
+            }               
     }
 }
