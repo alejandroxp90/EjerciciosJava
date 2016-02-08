@@ -2,7 +2,7 @@ package PrimerosEjercicios;
 
 import java.util.Scanner;
 
-/*@author Alejandroxp90*/
+/*@author Alejandroxp90 */
 public class cadena01 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
