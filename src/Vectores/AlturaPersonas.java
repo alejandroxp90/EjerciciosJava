@@ -1,5 +1,4 @@
 package Vectores;
-
 import java.util.Scanner;
 
 /**@author Alejandro_xp90*/
