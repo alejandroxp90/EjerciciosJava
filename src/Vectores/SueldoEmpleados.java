@@ -4,8 +4,8 @@ import java.util.Scanner;
 /*@author Alejandro_xp90*/
 public class SueldoEmpleados {
      private Scanner teclado;
-     private float sueldoM[];
-     private float sueldoT[];
+     private float[] sueldoM;
+     private float[] sueldoT;
      private float gastosSueldosM = 0;
      private float gastosSueldosT = 0;
      

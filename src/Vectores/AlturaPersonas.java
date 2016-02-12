@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class AlturaPersonas {
     private Scanner teclado;
-    private float altura[];
+    private float[] altura;
     private float promedio;
     
     public void CargaAlturas(){
