@@ -32,8 +32,7 @@ public class VectorParalelo {
         vp1 = new VectorParalelo();
         vp1.CargaPersonas();
         vp1.ImprimirMayEdad();
-    }
-        
+    }        
 }
     
     

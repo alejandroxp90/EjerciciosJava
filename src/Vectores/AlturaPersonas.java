@@ -1,7 +1,7 @@
 package Vectores;
 import java.util.Scanner;
 
-/**@author Alejandro_xp90*/
+/**@author Alejandro_xp90 */
 
 public class AlturaPersonas {
     private Scanner teclado;
