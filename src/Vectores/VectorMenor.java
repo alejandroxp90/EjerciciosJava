@@ -1,6 +1,6 @@
 package Vectores;
 
-/**@author Alejandro_xp90*/
+/**@author Alejandro_xp90 */
 public class VectorMenor {
      
 } 
