@@ -14,7 +14,7 @@ public class vectoresNelementos {
         nValor = teclado.nextInt();
         elementos = new int[nValor];
         for(int f=0;f<elementos.length;f++){
-            System.out.print("\nIngrese un valor: ");
+            System.out.print("Ingrese un valor: ");
             elementos[f] = teclado.nextInt();
         }        
     }
