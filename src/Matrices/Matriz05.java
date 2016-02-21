@@ -26,7 +26,7 @@ public class Matriz05 {
         int mayor = matriz4[0][0];
         int fila = 0;
         int columna =0;
-        System.out.println("\nEl elemento mayor en la matriz es: ");
+        System.out.print("\nEl elemento mayor en la matriz es: ");
        for(int f=0;f<matriz4.length;f++){
             for(int k=0;k<matriz4[f].length;k++){
                 if(matriz4[f][k]>mayor){
@@ -37,7 +37,7 @@ public class Matriz05 {
             }
         }
        System.out.println(mayor);
-        System.out.println("La fila es "+fila+" la columna es "+columna);
+        System.out.println("La fila donde esta "+mayor+" es "+fila+" la columna es "+columna);
     }
         
     public static void main(String[] args) {
